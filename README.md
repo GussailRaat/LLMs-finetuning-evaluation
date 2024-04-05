@@ -1,7 +1,11 @@
 ## Large Language Models
 
 This repo contains the notebooks and slides for the [Large Language Models: Application through Production](https://www.edx.org/course/large-language-models-application-through-production) course on [edX](https://www.edx.org/professional-certificate/databricks-large-language-models) & Databricks Academy.
- 
+
+## 🍿 Watch on YouTube
+
+- [LLM Module 4: Fine-tuning and Evaluating LLMs | 4.13.1 Notebook Demo Part 1](https://www.youtube.com/watch?v=2vEpMb4ofVU)
+
 <details>
 <summary> Notebooks</summary>
  
